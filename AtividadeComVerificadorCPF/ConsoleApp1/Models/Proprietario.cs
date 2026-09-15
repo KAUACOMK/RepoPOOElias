@@ -1,38 +1,58 @@
 ﻿public class Proprietario
 {
     public string _nome;
-    public string _cpf;
-    public DateTime _datanasc;
+    private string _cpf;
+    private DateTime _datanasc;
     public string _telefone;
 
+
+
+
+    public void SetDataNascimento(DateTime datanasc)
+    {
+        if (datanasc < DateTime.Today )
+            _datanasc = datanasc;
+        else
+            Console.WriteLine("Data de Nascimento Invalida!");   
+    }
+    public DateTime GetDataNascimento()
+    {
+        return _datanasc;
+    }
+
+    public void SetCPF(string cpf)
+    {
+        if (ValidadorDeCPF(cpf) == true)
+            _cpf = cpf;
+        else
+            throw new Exception("CPF Invalido");
+     }
+
+    public string GetCPF()
+    {
+        return _cpf.ToString();
+    }
+
+
     public bool ValidadorDeCPF(string cpf)
-    { 
-        if(cpf.Length > 11 || cpf.Length < 11) return false; //teste paravalidar se o CPF esta no tamnho certo
+    {
+        cpf = cpf.Replace(".", "").Replace("-","");
+
+        if(cpf.Length != 11) return false; //teste paravalidar se o CPF esta no tamnho certo
 
         int[] cpfV = new int[11];
-        int primeiroDigito = 0;
 
         for (int i = 0; i < 11; i++) //Laço para dividir o CPF em caracteres
         {
             cpfV[i] = Convert.ToInt32(cpf.Substring(i, 1));
         }
 
-        int multiplicador = 10;
-
-        int[] cpfMult = new int[11];
-
-        for (int i = 0; i < 9; i++) // Laço para multiplicar os 9 primeiros numeros
-        {
-            cpfMult[i] = cpfV[i] * multiplicador;
-
-            multiplicador--;
-        }
-
         int soma = 0;
-
-        for (int i = 0; i < 9; i++) // Laco para soma
+        int multiplicador = 10; 
+        for (int i = 0; i < cpf.Length - 2; i++) // Laço para multiplicar os 9 primeiros numeros
         {
-            soma = cpfMult[i] + soma;
+            soma += cpfV[i] * multiplicador;
+            multiplicador--;
         }
 
         int resto = soma % 11;
@@ -46,22 +66,19 @@
         }
         else
         {
-            primeiroDigito = 11 - resto;
+            int primeiroDigito = 11 - resto;
             if (primeiroDigito != cpfV[9]) // verificando se o digito é diferente do restante encontrado
                 return false;
         }
 
+        soma = 0;
         multiplicador = 11;
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < cpf.Length - 1; i++)
         {
-            cpfMult[i] = cpfV[i] * multiplicador;
+            soma += cpfV[i] * multiplicador;
             multiplicador--;
         }
-        soma = 0;
-        for (int i = 0; i < 10; i++)
-        {
-            soma = cpfMult[i] + soma;
-        }
+
         resto = soma % 11;
 
         if (resto < 2)

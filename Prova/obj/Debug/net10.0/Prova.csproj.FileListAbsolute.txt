@@ -1,0 +1,15 @@
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.AssemblyInfoInputs.cache
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.AssemblyInfo.cs
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.sourcelink.json
+C:\Users\Kaua\Desktop\POO\Prova\bin\Debug\net10.0\Prova.exe
+C:\Users\Kaua\Desktop\POO\Prova\bin\Debug\net10.0\Prova.deps.json
+C:\Users\Kaua\Desktop\POO\Prova\bin\Debug\net10.0\Prova.runtimeconfig.json
+C:\Users\Kaua\Desktop\POO\Prova\bin\Debug\net10.0\Prova.dll
+C:\Users\Kaua\Desktop\POO\Prova\bin\Debug\net10.0\Prova.pdb
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.dll
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\refint\Prova.dll
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.pdb
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\Prova.genruntimeconfig.cache
+C:\Users\Kaua\Desktop\POO\Prova\obj\Debug\net10.0\ref\Prova.dll

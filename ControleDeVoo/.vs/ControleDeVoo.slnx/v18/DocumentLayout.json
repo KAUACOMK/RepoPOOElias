@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|c:\\users\\kaua\\onedrive\\desktop\\poo\\controledevoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|c:\\users\\kaua\\onedrive\\desktop\\poo\\controledevoo\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|solutionrelative:context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|c:\\users\\kaua\\onedrive\\desktop\\poo\\controledevoo\\models\\voo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|solutionrelative:models\\voo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|c:\\users\\kaua\\onedrive\\desktop\\poo\\controledevoo\\services\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|solutionrelative:services\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|c:\\users\\kaua\\onedrive\\desktop\\poo\\controledevoo\\services\\modificadordevoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|solutionrelative:services\\modificadordevoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|c:\\users\\kaua\\onedrive\\desktop\\poo\\controledevoo\\controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|solutionrelative:controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|c:\\users\\kaua\\onedrive\\desktop\\poo\\controledevoo\\viwes\\paineis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4172A-D994-B9E6-4B5D-2FAEE6A20EAF}|ControleDeVoo.csproj|solutionrelative:viwes\\paineis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Context\\ContextDb.cs",
+              "RelativeDocumentMoniker": "Context\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Context\\ContextDb.cs",
+              "RelativeToolTip": "Context\\ContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:06:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:05:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voo.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Models\\Voo.cs",
+              "RelativeDocumentMoniker": "Models\\Voo.cs",
+              "ToolTip": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Models\\Voo.cs",
+              "RelativeToolTip": "Models\\Voo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:58:08.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Services\\Consulta.cs",
+              "RelativeDocumentMoniker": "Services\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Services\\Consulta.cs",
+              "RelativeToolTip": "Services\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:25:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModificadorDeVoo.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Services\\ModificadorDeVoo.cs",
+              "RelativeDocumentMoniker": "Services\\ModificadorDeVoo.cs",
+              "ToolTip": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Services\\ModificadorDeVoo.cs",
+              "RelativeToolTip": "Services\\ModificadorDeVoo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:10:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paineis.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Viwes\\Paineis.cs",
+              "RelativeDocumentMoniker": "Viwes\\Paineis.cs",
+              "ToolTip": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Viwes\\Paineis.cs",
+              "RelativeToolTip": "Viwes\\Paineis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:48:29.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Controllers\\Controllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controllers.cs",
+              "ToolTip": "C:\\Users\\Kaua\\OneDrive\\Desktop\\POO\\ControleDeVoo\\Controllers\\Controllers.cs",
+              "RelativeToolTip": "Controllers\\Controllers.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:00:35.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

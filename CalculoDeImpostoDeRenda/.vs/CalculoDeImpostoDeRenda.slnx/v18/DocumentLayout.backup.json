@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|c:\\users\\kaua\\desktop\\poo\\calculodeimpostoderenda\\views\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|solutionrelative:views\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|c:\\users\\kaua\\desktop\\poo\\calculodeimpostoderenda\\views\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|solutionrelative:views\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|c:\\users\\kaua\\desktop\\poo\\calculodeimpostoderenda\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|solutionrelative:controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|c:\\users\\kaua\\desktop\\poo\\calculodeimpostoderenda\\services\\calculodeholerite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|solutionrelative:services\\calculodeholerite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|c:\\users\\kaua\\desktop\\poo\\calculodeimpostoderenda\\models\\holerite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|solutionrelative:models\\holerite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|c:\\users\\kaua\\desktop\\poo\\calculodeimpostoderenda\\models\\contribuinte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|solutionrelative:models\\contribuinte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|c:\\users\\kaua\\desktop\\poo\\calculodeimpostoderenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1DCAB5-D2E2-BD51-39D1-C53CDE10F9F5}|CalculoDeImpostoDeRenda.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contribuinte.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Models\\Contribuinte.cs",
+              "RelativeDocumentMoniker": "Models\\Contribuinte.cs",
+              "ToolTip": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Models\\Contribuinte.cs",
+              "RelativeToolTip": "Models\\Contribuinte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:48:06.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculoDeHolerite.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Services\\CalculoDeHolerite.cs",
+              "RelativeDocumentMoniker": "Services\\CalculoDeHolerite.cs",
+              "ToolTip": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Services\\CalculoDeHolerite.cs",
+              "RelativeToolTip": "Services\\CalculoDeHolerite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:03:11.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T16:32:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Views\\Response.cs",
+              "RelativeDocumentMoniker": "Views\\Response.cs",
+              "ToolTip": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Views\\Response.cs",
+              "RelativeToolTip": "Views\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:57:25.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Views\\Interface.cs",
+              "RelativeDocumentMoniker": "Views\\Interface.cs",
+              "ToolTip": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Views\\Interface.cs",
+              "RelativeToolTip": "Views\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:57:17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Holerite.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Models\\Holerite.cs",
+              "RelativeDocumentMoniker": "Models\\Holerite.cs",
+              "ToolTip": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Models\\Holerite.cs",
+              "RelativeToolTip": "Models\\Holerite.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:56:55.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Controller\\Controller.cs",
+              "RelativeDocumentMoniker": "Controller\\Controller.cs",
+              "ToolTip": "C:\\Users\\Kaua\\Desktop\\POO\\CalculoDeImpostoDeRenda\\Controller\\Controller.cs",
+              "RelativeToolTip": "Controller\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:41:56.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

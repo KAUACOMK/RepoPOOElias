@@ -1,0 +1,14 @@
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\bin\Debug\net10.0\BalancoPatrimonialS.exe
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\bin\Debug\net10.0\BalancoPatrimonialS.deps.json
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\bin\Debug\net10.0\BalancoPatrimonialS.runtimeconfig.json
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\bin\Debug\net10.0\BalancoPatrimonialS.dll
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\bin\Debug\net10.0\BalancoPatrimonialS.pdb
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\BalancoPatrimonialS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\BalancoPatrimonialS.AssemblyInfoInputs.cache
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\BalancoPatrimonialS.AssemblyInfo.cs
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\BalancoPatrimonialS.csproj.CoreCompileInputs.cache
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\BalancoPatrimonialS.dll
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\refint\BalancoPatrimonialS.dll
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\BalancoPatrimonialS.pdb
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\BalancoPatrimonialS.genruntimeconfig.cache
+C:\Users\Kaua\Desktop\POO\BalancoPatrimonialS\obj\Debug\net10.0\ref\BalancoPatrimonialS.dll

@@ -1,0 +1,15 @@
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\bin\Debug\net10.0\ControleDeVoo.exe
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\bin\Debug\net10.0\ControleDeVoo.deps.json
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\bin\Debug\net10.0\ControleDeVoo.runtimeconfig.json
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\bin\Debug\net10.0\ControleDeVoo.dll
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\bin\Debug\net10.0\ControleDeVoo.pdb
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.AssemblyInfoInputs.cache
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.AssemblyInfo.cs
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.csproj.CoreCompileInputs.cache
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.sourcelink.json
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.dll
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\refint\ControleDeVoo.dll
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.pdb
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ControleDeVoo.genruntimeconfig.cache
+C:\Users\Kaua\Desktop\POO\ControleDeVoo\obj\Debug\net10.0\ref\ControleDeVoo.dll

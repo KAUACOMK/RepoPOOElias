@@ -4,5 +4,7 @@
         public string modelo;
         public string marca;
         public string cor;
+
+        public Proprietario _proprietarioCarro;
     }
 

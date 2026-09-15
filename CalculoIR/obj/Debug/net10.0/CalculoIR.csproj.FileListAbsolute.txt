@@ -1,0 +1,15 @@
+C:\Users\Kaua\Desktop\POO\CalculoIR\bin\Debug\net10.0\CalculoIR.exe
+C:\Users\Kaua\Desktop\POO\CalculoIR\bin\Debug\net10.0\CalculoIR.deps.json
+C:\Users\Kaua\Desktop\POO\CalculoIR\bin\Debug\net10.0\CalculoIR.runtimeconfig.json
+C:\Users\Kaua\Desktop\POO\CalculoIR\bin\Debug\net10.0\CalculoIR.dll
+C:\Users\Kaua\Desktop\POO\CalculoIR\bin\Debug\net10.0\CalculoIR.pdb
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.AssemblyInfoInputs.cache
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.AssemblyInfo.cs
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.csproj.CoreCompileInputs.cache
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.sourcelink.json
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.dll
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\refint\CalculoIR.dll
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.pdb
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\CalculoIR.genruntimeconfig.cache
+C:\Users\Kaua\Desktop\POO\CalculoIR\obj\Debug\net10.0\ref\CalculoIR.dll
